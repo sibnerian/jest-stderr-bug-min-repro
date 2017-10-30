@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "babel-preset-env": "*",
+    "jest": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jest meta.test.js"
+  }
+}
